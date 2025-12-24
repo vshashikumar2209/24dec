@@ -12,3 +12,4 @@ function pay() {
     document.getElementById("msg").textContent =
         "Payment completed successfully!";
 }
+
